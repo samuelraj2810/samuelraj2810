@@ -1,7 +1,7 @@
 👋 Hi, I’m @samuelraj2810
 
-- 👀 I’m interested in Full Stack Web Development and MERN Stack.
-- 🌱 I’m currently learning Backend Development (Node.js and Express.js).
+- 👀 I’m interested in MERN Full Stack Web Development.
+- 🌱 I’m currently enhancing my skills in MERN Stack..
 - 💞️ I’m looking to collaborate on front-end projects and GitHub repositories.
 - 📫 How to reach me: samuelraj2810@gmail.com
 - 😄 Pronouns: He/Him
